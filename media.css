@@ -1,0 +1,163 @@
+@media (max-width: 767px) {
+    .container {
+        width:min(320px,100%) ;
+    }
+
+    .logo{
+        width: 60px;
+        height: 30px;
+    }
+
+    .header-nav{
+        display: none;
+    }
+
+    /* main */
+
+    .hero{
+        
+        padding-top: 60px;
+        padding-bottom: 80px;
+    }
+
+    .hero-content-header{
+        margin-bottom: 20px;
+    }
+    
+    .hero-header{
+        font-size: 50px;
+        
+    }
+
+    .hero-content-text{
+        margin-bottom: 30px;
+        font-size: 15px;
+    }
+
+    .button{
+        padding: 5px 15px;
+        height: 45px;
+        font-size: 12px;
+        line-height: 230%;
+    }
+    
+    .button-shop{
+        display: none;
+    
+    }
+    
+    .hero-img{
+        display: none;
+    }
+
+    .section{
+        padding-top: 100px;
+        padding-bottom: 100px;
+    }
+    
+    .section-header{
+        margin-bottom: 50px;
+    
+    }
+
+    .title{
+        margin-bottom: 40px;
+        font-size: 24px;
+        
+    }
+    
+    .subtitle{
+        font-size: 14px;
+    }
+
+    .section-posts{
+        display: none;
+    }
+
+    .order__photo{
+        display: none;
+    }
+    
+    .order__title{
+        margin-bottom: 20px;
+    }
+    
+    .title__order{
+        font-size: 44px;
+    }
+    
+    .order__text{
+        font-size: 14px;
+        margin-bottom: 40px;
+    }
+
+    .order{
+        padding: 10px 25px;
+        font-size: 12px;
+        line-height: 200%;
+    }
+
+    .section-last{
+        display: none;
+    }
+
+    .last-title{
+        display: none;
+    }
+
+    .block-stars{
+        display: none;
+    }
+
+    .title-contact{
+        margin-bottom: 20px;
+        font-size: 27px;
+       
+    }
+
+    .email-block{
+        margin-bottom: 20px;
+    }
+    
+    .email{
+        margin-left: 14px;
+        font-weight: 400;
+        font-size: 20px;
+    }
+    .phone-block{
+        margin-bottom: 20px;
+    }
+    
+    .social-block{
+        margin-bottom: 30px;
+    }
+    
+    .phone{
+        font-weight: 400;
+        font-size: 20px;
+        margin-left: 14px;
+    }
+    .button-form{
+        display: inline-block;
+        text-align: center;
+        padding: 10px 20px;
+        height: 60px;
+        font-size: 12px;
+        line-height: 200%;
+    }
+
+    .last-main{
+        padding-bottom: 20px;
+    }
+
+    .cop{
+        font-weight: 400;
+        font-size: 14px;
+    }
+    .text-cop{
+        font-size: 14px;
+    }
+    .left-block{
+        display: none;
+    }
+}
